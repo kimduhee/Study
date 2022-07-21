@@ -12,7 +12,7 @@ git command
 
 + git add .
 ```
-파일 변경사항을 인덱스에 추가
+변경된 모든 파일을 인덱스에 추가
 ```
 
 + git commit -m '신규파일'
