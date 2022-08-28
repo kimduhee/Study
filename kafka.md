@@ -14,3 +14,13 @@
 ```
 .\kafka-server-start.bat ..\..\config\server.properties
 ```
+
++ Producer 실행(topic명 'test')
+```
+.\kafka-console-producer.bat  --broker-list  localhost:9092 --topic test
+```
+
++ Consumer 실행(topic명 'test')
+```
+.\kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic test --from-beginning
+```
