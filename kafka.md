@@ -5,6 +5,10 @@
 
 실행
 ------------
++ kafka 설치 경로로 이동
+```
+예) C:\kafka\bin\windows
+```
 + Zookeeper 실행
 ```
 .\zookeeper-server-start.bat ..\..\config\zookeeper.properties
