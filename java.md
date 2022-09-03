@@ -1,7 +1,7 @@
 
 String, StringBuffer, StringBuilder
 ------------
-+ String, StringBuffer, StringBuilder
+<!--+ String, StringBuffer, StringBuilder-->
 ```
 String은 불변(immutable)의 속성을 갖는다
 
