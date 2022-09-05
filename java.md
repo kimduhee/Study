@@ -1,4 +1,15 @@
 
+Java 버전별 특징
+------------
++ java 8
+```
+1.Lambda
+2.stream
+3.interface default method
+4.Optional
+5.new Date and Time API(LocalDateTime, …)
+```
+
 String, StringBuffer, StringBuilder
 ------------
 <!--+ String, StringBuffer, StringBuilder-->
